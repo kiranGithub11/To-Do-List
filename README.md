@@ -1,10 +1,10 @@
 # ToDoList Web App
 check -> https://kirangithub11.github.io/To-Do-List/ ,
-This ToDoList web app is a simple yet effective tool for managing your tasks. It allows users to add, edit, and delete tasks with a user-friendly interface. The app also leverages local storage to persist data, ensuring that your tasks are saved even when you close the browser.
+This ToDoList web app is a simple yet effective tool for managing tasks. It allows users to add, edit, and delete tasks with a user-friendly interface. The app also leverages local storage to persist data, ensuring that your tasks are saved even when you close the browser.
 
 ## Project Overview
 
-This Web App is created to offer every one to organize their daily tasks. It includes add task button you can add multiple tasks and clear button to clear tasks. 
+This Web App is created to allow everyone to organize their daily tasks. It includes an add task button where you can add multiple tasks and a clear button to clear tasks. 
 ## Features
 
 - **Add Task:** Easily add new tasks to your to-do list.
@@ -31,13 +31,11 @@ This Web App is created to offer every one to organize their daily tasks. It inc
 
 ## Contributing
 
-We welcome contributions! Feel free to fork this repository, make your changes, and create a pull request.
+We welcome contributions! You can fix this repository, make your changes, and create a pull request.
 
 ## Contact
 
-For any queries or suggestions, please contact kirannaragam@gmail.com .
-
-Enjoy exploring our taco delights!
+For any queries or suggestions, please contact kirannaragam@gmail.com 
 
 
 
